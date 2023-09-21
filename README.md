@@ -4,7 +4,7 @@
 ![Portfolio_home](https://deva-rangan-test.s3.ap-south-1.amazonaws.com/Login-Frontend.png)
 
 ## License:
-  Allways welcomes who wants to coloborate with this repository to make perfect. Any one can use this repository to build custome porfolio application with thier creative ideas and the procedure given below.
+  Anyone who wishes to work with this repository to improve it is always welcome. Any individual can utilise this repository to create a login application using their own creative concepts and the steps provided below.
 
 ### Procedures:
   * clone a repository using https://github.com/DevarajRangannan/Login-Frontend.git URL to locally.
