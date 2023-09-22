@@ -1,3 +1,27 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+
+body{
+    
+    background-image: url("https://deva-rangan-test.s3.ap-south-1.amazonaws.com/login_bg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+@media (min-width: 30px) and (max-width: 1200px) {
+    body {
+      background-image: url('https://deva-rangan-test.s3.ap-south-1.amazonaws.com/login_bg.jpg');
+    }
+}
+
+#root{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3); /* Adjust the color and opacity here */
+    z-index: 0;
+
+}
+
